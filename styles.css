@@ -1,0 +1,15 @@
+h1 {
+	font-size: 24px;
+	font-family: Verdana;
+	color: #41B883;
+	text-align: center;
+}
+
+p {
+	font-size: 18px;
+	font-family: Courier;
+}
+
+body {
+	padding: 50px;
+}
